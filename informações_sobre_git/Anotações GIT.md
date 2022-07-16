@@ -9,7 +9,7 @@
 
 - git status - Verificar o status das alterações efetuadas.
 - git add - Adicionar alterações efetuadas a sua nova versão do projeto, preparando para o commit.
-  - *git add .      \*
+  - *git add .*      \
   - *git add *      ---- *Servem para adicionar todas as alterações efetuadas.*
   - *git add -A    /*
   - *git add nomeArquivo* - *Adiciona apenas a alteração efetuada no arquivo específico.*
